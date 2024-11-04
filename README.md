@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Container Security and K8**
 
-- 💬 Ask me about **CI/CD**
+- 💬 Ask me about **CI/CD, Security, DevOps**
 
 - 📫 How to reach me **s.kumarkimbal.io**
 
